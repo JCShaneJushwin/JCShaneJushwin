@@ -11,7 +11,7 @@
 
 - 😏 Catch me baby ->>**shanejushwin28@gmail.com**
 
-- ⚡ Real Fact😢**Courage != Being Brave**
+- 😢 Real Fact **Courage != Being Brave**
 
 <h3 align="left">Connect with me:)</h3>
 <p align="left">
