@@ -1,5 +1,5 @@
 <h1 align="center">Yup that's me Shane Jushwin</h1>
-<h3 align="center">A passionate aspiring Data Wrangler!</h3>
+<h3 align="center">A passionate aspiring Data Sage!</h3>
 
 - 🔭 I’m currently working on **Customer Transaction Dashboard**
 
