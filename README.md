@@ -1,17 +1,15 @@
-<h1 align="center">Yup that's me Shane Jushwin</h1>
-<h3 align="center">A passionate aspiring Data Sage!</h3>
+<h1 align="center">Yup that's me :)</h1>
+<h3 align="center">An aspiring Data Scientist!</h3>
 
-- 🔭 I’m currently working on **Customer Transaction Dashboard**
+-  I’m currently working on **Customer Transaction Dashboard**
 
-- 🌱 I’m currently learning **⭐Matplotlib  ⭐Core Java for DSA ⭐Advanced Python Libraries**
+-  I’m currently learning **⭐Matplotlib  ⭐Core Java for DSA ⭐Advanced Python Libraries**
 
-- 💬 Ask me about **⭐Data Analysis 
-                     ⭐Manipulation & Visualization
-                     ⭐ SQL Databases**
+-  Ask me about **⭐Data Analysis 
+                  ⭐Manipulation & Visualization
+                  ⭐ SQL Databases**
 
-- 😏 Catch me baby ->>**shanejushwin28@gmail.com**
-
-- 😢 Real Fact **Courage != Being Brave**
+- 😏 Catch me at >**shanejushwin28@gmail.com**
 
 <h3 align="left">Connect with me:)</h3>
 <p align="left">
