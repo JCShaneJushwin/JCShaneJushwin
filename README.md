@@ -1,13 +1,13 @@
 <h1 align="center">Yup that's me :)</h1>
 <h3 align="center">An aspiring Data Scientist!</h3>
 
--  I’m currently working on **Customer Transaction Dashboard**
+-  I’m currently working on **Personal Finances Expense Tracker Dashboard**
 
--  I’m currently learning **⭐Matplotlib  ⭐Core Java for DSA ⭐Advanced Python Libraries**
+-  I’m currently learning **⭐Matplotlib  ⭐OOPS for DSA ⭐Advanced Python Libraries  ⭐Power BI Reports**
 
 -  Ask me about **⭐Data Analysis 
                   ⭐Manipulation & Visualization
-                  ⭐ SQL Databases**
+                  ⭐SQL Databases**
 
 - 😏 Catch me at >**shanejushwin28@gmail.com**
 
